@@ -1,12 +1,12 @@
 This readme will cover how to install "NightMode" for the Windows SlackAPP.
 
-Steps to setup:
-->SlackAPP 
--> Click the upper-left Bar Icon 
--> Preferences 
--> Sidebar 
--> Scroll down to the "copy and paste these values to share custom theme" section 
--> Paste in the following data:
+Steps to setup:<br />
+-> SlackAPP <br />
+-> Click the upper-left Bar Icon <br />
+-> Preferences <br />
+-> Sidebar <br />
+-> Scroll down to the "copy and paste these values to share custom theme" section <br />
+-> Paste in the following data:<br />
 "#2a2b2b,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668"
 
 Next go into your SlackAPP install directory on windows. It should be something like:
