@@ -1,7 +1,7 @@
 This readme will cover how to install "NightMode" for the Windows SlackAPP.
 
 Steps to setup:<br />
--> SlackAPP <br />
+-> Go into your SlackAPP <br />
 -> Click the upper-left Bar Icon <br />
 -> Preferences <br />
 -> Sidebar <br />
