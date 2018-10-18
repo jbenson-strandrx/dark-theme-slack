@@ -17,6 +17,7 @@ Then dig down into the current version of slack's source:
 
 Open the "ssb-interop.js" file, and add the following code to the bottom of the file:
 
+```
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
    url: 'https://raw.githubusercontent.com/jbenson-strandrx/dark-theme-slack/master/dark-theme.css',
@@ -25,5 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
    }
  });
 });
+```
 
 Lastly, restart your SlackAPP, presto!
